@@ -8,7 +8,12 @@ It ensures the **right medication, at the right time, in the right dosage** — 
 
 ## Why MediMate?
 
-Managing medication schedules can be challenging, especially for seniors. Forgetting doses or mixing up prescriptions can have serious consequences. MediMate provides an **intelligent, user‑friendly solution** by combining **AI, speech technology, and multilingual support** into one seamless assistant.
+Managing medication schedules can be challenging, especially for seniors. MediMate addresses common challenges such as:
+* Forgetting doses
+* Complex medication schedules
+* Lack of assistance or accessible information 
+
+MediMate provides an **intelligent, user‑friendly solution** by combining **AI, speech technology, and multilingual support** into one seamless assistant.
 
 ---
 
