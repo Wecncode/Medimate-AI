@@ -52,17 +52,17 @@ MediMate provides an **intelligent, user‑friendly solution** by combining **AI
 
 Here’s a quick example of MediMate in action:
 
-👵 User: "MediMate, did I take my morning pill?"  
-🤖 MediMate: "Yes, you logged it at 8:05 AM today. Great job! ✅"
+👵 **User**: "MediMate, did I take my morning pill?"  
+🤖 **MediMate**: "Yes, you logged it at 8:05 AM today. Great job! ✅"
 
-👵 User: "What does my blood pressure medicine do?"  
-🤖 MediMate: "It helps your heart relax and lowers your blood pressure, so your blood flows more easily. 💓"
+👵 **User**: "What does my blood pressure medicine do?"  
+🤖 **MediMate**: "It helps your heart relax and lowers your blood pressure, so your blood flows more easily. 💓"
 
-👵 User: "Remind me about my vitamin D."  
-🤖 MediMate: "Got it! I’ll remind you at 2:00 PM with a friendly nudge. ☀️"
+👵 **User**: "Remind me about my vitamin D."  
+🤖 **MediMate**: "Got it! I’ll remind you at 2:00 PM with a friendly nudge. ☀️"
 
-👵 User: 🚨 *[presses emergency button]*  
-🤖 MediMate: "Emergency contact alerted. Help is on the way."
+👵 **User**: 🚨 *[presses emergency button]*  
+🤖 **MediMate**: "Emergency contact alerted. Help is on the way."
 
 ---
 ## Team Building Medimate
