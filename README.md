@@ -35,5 +35,13 @@ Managing medication schedules can be challenging, especially for seniors. Forget
 ☑️ **Multilingual:** Google Translate API
 
 ---
+
+## Security & Privacy
+* Encrypted storage of sensitive data
+* Secure authentication (JWT)
+* Role-based access control (users vs caregivers)
+* Emergency contact system
+
+---
 ## Team Building Medimate
 ⭐ **Zethu Kofi** ⭐ **Bonolo Masela** ⭐ **Anita Mubambe Mwele**
