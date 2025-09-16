@@ -1,6 +1,8 @@
 # MediMate — Your AI‑Powered Medication Companion
 
-MediMate is an **innovative AI chatbot** designed to act as a personal medication assistant for older adults and individuals managing chronic medication. It ensures the **right medication, at the right time, in the right dosage** — all while being accessible, friendly, and reliable.
+MediMate is an **innovative AI chatbot** designed to act as a personal medication assistant for older adults and individuals managing chronic medication. 
+
+It ensures the **right medication, at the right time, in the right dosage** — all while being accessible, friendly, and reliable.
 
 ---
 
