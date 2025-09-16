@@ -27,12 +27,12 @@ Managing medication schedules can be challenging, especially for seniors. Forget
 
 ## Tech Stack
 
-* **Frontend:** React, lucide‑react, shadcn/ui, TailwindCSS
-* **Backend:** Node.js (Express)
-* **Database:** MongoDB
-* **AI Engine:** OpenAI GPT (for simplified medical explanations)
-* **Speech Support:** Google Speech‑to‑Text & Text‑to‑Speech
-* **Multilingual:** Google Translate API
+☑️ **Frontend:** React, lucide‑react, shadcn/ui, TailwindCSS
+☑️ **Backend:** Node.js (Express)
+☑️ **Database:** MongoDB
+☑️ **AI Engine:** OpenAI GPT (for simplified medical explanations)
+☑️ **Speech Support:** Google Speech‑to‑Text & Text‑to‑Speech
+☑️ **Multilingual:** Google Translate API
 
 ---
 ## Team Building Medimate
